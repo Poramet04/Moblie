@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088624508128",
+    "project_id": "porameto-48008",
+    "storage_bucket": "porameto-48008.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088624508128:android:7c1ce792add18a9d6e6485",
+        "android_client_info": {
+          "package_name": "com.example.delblie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZ4SlGInfZoMW-m6lziJrMXRL6TRHuNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
